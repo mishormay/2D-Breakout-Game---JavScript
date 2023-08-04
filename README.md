@@ -21,3 +21,4 @@ points each time. The player has three lives. After that, the player loses the g
 
 
 
+Inspo by Code Explained.
